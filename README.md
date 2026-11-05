@@ -2,10 +2,10 @@
 
 > No futuro, todo mundo vai dizer que nunca apoiou.
 
-Este repositório é o Arquivo: o registro canônico de recortes — atos datados de
-apoio público a figuras da extrema-direita, um ato por recorte, com fonte,
-transcrição e prova. Ele mora num repositório próprio, separado do código que o
-lê, o valida e o renderiza, porque prova não guarda a si mesma quando mora
+Este repositório é o Arquivo: o registro canônico de recortes — atos datados
+de apoio público a figuras da extrema-direita, um ato por recorte, com fonte,
+transcrição e prova. Ele mora num repositório próprio, separado do código que
+o lê, o valida e o renderiza, porque prova não guarda a si mesma quando mora
 junto de quem a processa.
 
 ## Layout e regras
@@ -13,10 +13,10 @@ junto de quem a processa.
 O contrato de layout, rascunho/publicação e imutabilidade está em
 [ARCHIVE.md](ARCHIVE.md). Em resumo:
 
-    clippings/<id>/clipping.json   um recorte por diretório
-    clippings/<id>/<hash>          mídia de prova pequena, no git
-    media/<hash>                   mídia pesada, nomeada pelo próprio hash
-    manifest.json                  os ids dos recortes publicados
+    clippings/<id>/clipping.json   um Recorte por diretório
+    clippings/<id>/<hash>          mídia de prova pequena, comprometida no git
+    media/<hash>                   mídia pesada, fora do git, referida no JSON
+    manifest.json                  os IDs dos Recortes publicados
 
 As decisões de fundo são ADRs do repositório de código
 (github.com/pedrolucasp/ninguem-apoiou):
@@ -31,8 +31,8 @@ As decisões de fundo são ADRs do repositório de código
 
 Qualquer Espelho vale tanto quanto o original: endereço não faz parte da
 identidade, e nenhum código depende de um URL canônico. Clones completos em
-outros sistemas git e no Software Heritage são o próprio Arquivo, não cópias de
-segurança.
+outros sistemas git e no Software Heritage são o próprio Arquivo, não cópias
+de segurança.
 
 ## Licença
 
