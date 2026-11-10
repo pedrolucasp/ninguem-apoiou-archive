@@ -1,0 +1,35 @@
+{
+  "id": "arquivamento-fake-news-ministros-do-stf-dizem-que-encerramento-de-inquerito-serve-para-pais-virar-pagina-25pa6e",
+  "eventDate": "2026-11-09",
+  "title": "Arquivamento Fake News: ministros do STF dizem que encerramento de inquérito serve para país 'virar página' ",
+  "summary": "Edson Fachin pede encerramento do inquérito que investigava impulso e atividades como fake news que ajudaram a alavancar a campanha de Jair Bolsonaro e outras figuras da extrema-direita",
+  "supporters": [
+    {
+      "id": "edson-fachin",
+      "roles": [
+        "politician"
+      ]
+    },
+    {
+      "id": "paulo-gonet",
+      "roles": [
+        "federal-prosecutor"
+      ]
+    }
+  ],
+  "platform": "g1.globo.com",
+  "tags": [
+    "edson-fachin",
+    "stf",
+    "inquerito",
+    "fake-news"
+  ],
+  "transcript": "Ministros do Supremo Tribunal Federal (STF) afirmaram, reservadamente, à TV Globo nesta segunda-feira (9) que o encerramento do inquérito das fake news, determinado pelo presidente da Corte, Edson Fachin, representa um \"passo importante\" e \"uma página virada\" na história do tribunal.",
+  "links": [
+    {
+      "url": "https://g1.globo.com/politica/noticia/2026/11/09/ministros-do-stf-dizem-que-encerrar-inquerito-das-fake-news-servira-para-virar-pagina-no-pais.ghtml",
+      "primary": true
+    }
+  ],
+  "refusedSnapshot": "captura recusada: o serviço respondeu sem o local da captura"
+}
